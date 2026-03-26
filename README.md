@@ -8,7 +8,7 @@
 A machine learning project that classifies astronomical objects (Stars, Galaxies, and Quasars) using data from the Sloan Digital Sky Survey (SDSS). Achieved **97.5% accuracy** using ensemble learning methods.
 
 <p align="center">
-  <img src="images/image1.webp" alt="Stellar Classification" width="100%" style="max-height: 400px; object-fit: cover;">
+  <img src="images/image1.webp" alt="Stellar Classification" width="100%" style="max-height: 200px; object-fit: cover;">
 </p>
 ---
 
